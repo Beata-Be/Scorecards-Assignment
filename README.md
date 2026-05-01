@@ -1,2 +1,0 @@
-# Scorecards-Assignment
-Scorecards Assignment
